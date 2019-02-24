@@ -1,0 +1,15 @@
+img {
+    height: 25%;
+    width: 25%;
+    float: left;
+}
+.content {
+    background: white;
+    margin:40px;
+}
+body {
+    background-color:lightgray
+}
+h1 {
+    color:#4aaaa5;
+}
