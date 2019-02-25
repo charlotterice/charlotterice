@@ -1,42 +1,61 @@
-.h1{
+h1{
     background-color: #4aaaa5;
+    margin:0px;
+    height:50px;
+    width:300px;
     position: relative;
-    top:50px;
-    left: 100px;
+    left: 200px;
+    top:0px;
     color: white;
-    padding:40px;
-    text-align: left;
+    border: solid;
+    border-color:black;
+    text-align:center;
+    padding:20px;
 }
 nav {
-    position:fixed;
-    right:0;
+    position: absolute;
+    top:40px;
+    right:200px;
+    border: solid;
+    border-color:black;
 }
 h2 {
     color:#4aaaa5;
+    border: solid;
+    border-color:black;
 }
 img {
     padding: 10px;
     width:10%;
     height:10%;
     float: left;
+    border: solid;
+    border-color:black;
 }
 body {
     background-image: url(../images/white-waves.png)
 }
 .container {
-    padding:20px;
     background-color:#fff;
-    border-color:#ddd;
-    margin:100px;
-    font-family: Arial, Arial, Helvetica, sans-serif;
-    width: 960px;
+    margin:200px;
+    border: solid;
+    border-color:black;
 }
 footer {
     background-color: #666;
-    position: fixed;
-    bottom: 0;
     text-align: center;
+    color: white;
+    height: 50px;
+    padding:15px;
+    border-top-style: solid;
+    border-top-color:#4aaaa5;
 }
-a {
-    float:right;
+header {
+    background-color:white;
+    position:fixed;
+    top:0;
+    right:0;
+    left:0;
+    border: solid;
+    border-color:black;
 }
