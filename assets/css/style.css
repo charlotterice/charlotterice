@@ -105,10 +105,12 @@ input[type=submit] {
 .Cat1 span {
     position: absolute;
     bottom:10px;
-    left:100px;
     background:#4aaaa5;
     color:white;
-    padding: 20px;
+    width:100%;
+    height:50px;
+    text-align:center;
+    padding-top:20px;
 }
 .Cat2{
     position:relative;
@@ -122,6 +124,10 @@ input[type=submit] {
     bottom:10px;
     background:#4aaaa5;
     color:white;
+    width:100%;
+    height:50px;
+    text-align:center;
+    padding-top:20px;
  }
 .Cat3{
     position:relative;
@@ -135,7 +141,12 @@ input[type=submit] {
     bottom:10px;
     background:#4aaaa5;
     color:white;
- }.Cat4{
+    width:100%;
+    height:50px;
+    text-align:center;
+    padding-top:20px;
+ }
+ .Cat4{
     position:relative;
     bottom:200px;
     height:200px;
@@ -146,7 +157,12 @@ input[type=submit] {
     bottom:10px;
     background:#4aaaa5;
     color:white;
- }.Cat5{
+    width:100%;
+    height:50px;
+    text-align:center;
+    padding-top:20px;
+ }
+ .Cat5{
     position:relative;
     bottom:400px;
     right: 210px;
@@ -158,4 +174,8 @@ input[type=submit] {
     bottom:10px;
     background:#4aaaa5;
     color:white;
+    width:100%;
+    height:50px;
+    text-align:center;
+    padding-top:20px;
  }
